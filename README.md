@@ -4,6 +4,8 @@ The **DEEJ-Audio Mixer** is a labor of love and creativity, representing both my
 
 ![DEEJ-Audio Mixer Design](https://github.com/user-attachments/assets/034bd509-9a6e-434a-959f-77325f44b350)
 
+*The final CAD modell!*
+
 ## 🎨 Design & Vision
 
 From the very beginning, I approached this project with a clear vision: to build an audio mixer that marries **aesthetics** and **usability**. Every aspect of the mixer—from the layout to the smallest detail—was meticulously crafted by hand in CAD software.
@@ -13,6 +15,8 @@ From the very beginning, I approached this project with a clear vision: to build
 - The process involved **extensive trial and error** to achieve the perfect balance between form and function.
 
 ![Design Process](https://github.com/user-attachments/assets/e5a80a31-df66-493b-8ec2-60660f857152)
+
+*This is an image from the design phase. It shows, how I started with the modell and how it looks now!*
 
 ## 🛠️ Development & Features
 
@@ -27,11 +31,15 @@ Bringing the DEEJ-Audio Mixer to life required a lot of **tinkering** and **expe
 
 ![Audio Mixer Features](https://github.com/user-attachments/assets/87d45c54-d6ba-491d-80d2-33ea7fda058c)
 
+*This image shows the key features from the Deej-Audio Mixer!*
+
 ## 🧩 Skills and Future Enhancements
 
 One of the exciting next steps is to delve into **circuit board development**, which will allow the mixer to reach its full potential as a real-world device. This is an area I am eager to explore further as the project progresses.
 
 ![Circuit Board Concept](https://github.com/user-attachments/assets/437b76c1-3a05-47be-ab35-6d6ba86cbed3)
+
+*A small sneak peak from the coming PCB Design!*
 
 ## ⏸️ Current Status: On Hold
 
